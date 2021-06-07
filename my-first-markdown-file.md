@@ -7,8 +7,16 @@ Add links with open close brackets `[link text]` followed by `(link here)`. For 
 
 ## Headers
 `# indicates an <h1> tag`
+
 `## indicates an <h2> tag`
+
 `##### indicates an <h5> tag`
 
 ## Text Decoration
-Use a single astrix around words to *italicize* them, or double astrixes to **bold**
+Use a single astrix around words to *italicize* them, or double astrixes to **bold**.
+
+## Blockquotes
+Adding a block quote is easy:
+
+> Use carrots in front of your text
+> on each row to block out the quote
